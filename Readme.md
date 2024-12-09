@@ -6,6 +6,9 @@ It has the following features-
 - Anyone can see their existing todos
 - Anyone can mark the todo as done
 
+## Concepts covered
 
-//initialize a node project
-// put a package.json
+- Express ( post , get ,put fetch)
+- ZOD for validation 
+- MongoDB for database
+- React ( very very basic for frontend )
